@@ -1,0 +1,2 @@
+model_checkpoint_path: "RLL_l1_128_l2_128_lr_0.05_penalty_5.0_bs_512_dropout_5.0_hard_2_sim_euc_anchor_mass_anchor_ON_kangyu_beike_e_online.ckpt"
+all_model_checkpoint_paths: "RLL_l1_128_l2_128_lr_0.05_penalty_5.0_bs_512_dropout_5.0_hard_2_sim_euc_anchor_mass_anchor_ON_kangyu_beike_e_online.ckpt"
